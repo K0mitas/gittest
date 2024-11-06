@@ -8,6 +8,8 @@ function App() {
       <Button>Button</Button>
       <Button>Кнопка</Button>
 
+      <input type="text" />
+
     </div>
   );
 }
